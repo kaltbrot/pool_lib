@@ -141,7 +141,7 @@ namespace pool_lib
                     if (dresult == tresult)
                     {
                         return "I(ю), II(ю), III(ю)";
-                    }    
+                    }
                 }
 
                 /// Пол мужской, длинна бассейна 50 метров, возрастная группа старшая
